@@ -16,4 +16,4 @@ Ce projet consiste en un calculateur d'intérêts financiers en Python. Il perme
 4. Suivez les instructions pour saisir le capital initial, le taux d'intérêt annuel et le nombre d'années.
 5. Consultez les résultats affichés.
 
-©2024 Mulot Steven. Tout droit réservé.
+### ©2024 Mulot Steven. Tout droit réservé.
